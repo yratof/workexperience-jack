@@ -1,0 +1,701 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  position: relative;
+  float: left;
+}
+
+.text {
+  position: relative;
+  float: left;
+  font-weight: 400;
+  line-height: 1.38;
+}
+
+.text-10 p,
+.text-11 p,
+.text-13 p,
+.text-15 p,
+.text-16 p,
+.text-18 p,
+.text-19 p {
+  margin-bottom: 1em;
+}
+
+.container-1 {
+  clear: both;
+  z-index: 19;
+  width: 18.8%;
+  height: 71px;
+  margin: -109px 0 0 30.39714%;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.container-2 {
+  z-index: 20;
+  width: 18.7994791666%;
+  height: 71px;
+  margin: 60px 0 0 10%;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.container-3 {
+  z-index: 27;
+  width: 20.25%;
+  height: 147px;
+  margin: -70px 0 0 30.65755%;
+  background-color: rgb(0, 0, 0);
+}
+
+.container-4 {
+  z-index: 21;
+  width: 18.8333333333%;
+  height: 71px;
+  margin: -104px 0 0 30.39323%;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.container-5 {
+  z-index: 22;
+  width: 18.7666666666%;
+  height: 71px;
+  margin: 65px 0 0 10%;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.container-6 {
+  z-index: 46;
+  width: 18.765625%;
+  height: 71px;
+  margin: 63px 0 0 0.8099%;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.container-7 {
+  z-index: 61;
+  width: 20.25%;
+  height: 147px;
+  margin: -113px 0 0 60.24089%;
+  background-color: rgb(0, 0, 0);
+}
+
+.container-8 {
+  z-index: 50;
+  width: 18.765625%;
+  height: 71px;
+  margin: 48px 0 0 10.01823%;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.container-9 {
+  z-index: 54;
+  width: 18.765625%;
+  height: 71px;
+  margin: 76px 0 0 0.53516%;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.element-1 {
+  position: relative;
+  float: left;
+  z-index: 3;
+  width: 13.5%;
+  height: 190px;
+  margin: 40px 0 0 10%;
+  background: url('../images/300px-OptimusPrimeAnimated.JPG') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-10 {
+  position: relative;
+  float: left;
+  z-index: 2;
+  width: 12.9166666666%;
+  height: 205px;
+  margin: -370px 0 0 77.19922%;
+  background: url('../images/Animated-Megatron_1197728946.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-11 {
+  position: relative;
+  float: left;
+  z-index: 12;
+  width: 12%;
+  height: 28px;
+  margin: -236px 0 0 78%;
+  border: 2px double rgb(255, 84, 0);
+  background-color: rgb(222, 222, 222);
+}
+
+.element-12 {
+  position: relative;
+  float: left;
+  z-index: 41;
+  width: 39.25%;
+  height: 312px;
+  margin: 25px 0 0 10%;
+  border: 5px solid rgb(0, 140, 255);
+  background: url('../images/transformers_animated_autobots_by_ja3ni-d4bcr14.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-13 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 8;
+  width: 37.8333333333%;
+  height: 265px;
+  margin: -285px 0 0 50.83203%;
+  border: 9px double rgb(255, 0, 0);
+  background-color: rgb(222, 222, 222);
+}
+
+.element-14 {
+  position: relative;
+  float: left;
+  z-index: 36;
+  width: 37.8333333333%;
+  height: 60px;
+  margin-left: 50.83203%;
+  background-color: rgb(222, 222, 222);
+}
+
+.element-15 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 38;
+  width: 5.1666666666%;
+  height: 57px;
+  margin: -60px 0 0 50.83203%;
+  background: url('../images/250px-Autobot_symbol(2).png') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-16 {
+  position: relative;
+  float: left;
+  z-index: 37;
+  width: 5.1666666666%;
+  height: 71px;
+  margin: -71px 0 0 84.79948%;
+  background: url('../images/Decepticon_logo.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-17 {
+  position: relative;
+  float: left;
+  z-index: 18;
+  width: 39.2%;
+  height: 83px;
+  margin-left: 10%;
+  border: 4px dashed rgb(255, 255, 255);
+  background-color: rgb(246, 30, 0);
+}
+
+.element-18 {
+  position: relative;
+  float: left;
+  z-index: 23;
+  width: 20.25%;
+  height: 76px;
+  margin: -60px 0 0 60.2474%;
+  border: 2px double rgb(0, 0, 0);
+  background-color: rgb(222, 222, 222);
+}
+
+.element-19 {
+  position: relative;
+  float: left;
+  z-index: 42;
+  width: 19.4166666666%;
+  height: 145px;
+  margin: -8px 0 0 10%;
+  border: 5px solid rgb(0, 0, 0);
+  background: url('../images/xDAo8.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-2 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 6;
+  height: 54px;
+  margin: -223px 0 0 10%;
+  background-color: rgb(222, 222, 222);
+}
+
+.element-20 {
+  position: relative;
+  float: left;
+  z-index: 31;
+  width: 5.1666666666%;
+  height: 57px;
+  margin: -101px 0 0 30.39974%;
+  background: url('../images/250px-Autobot_symbol(2).png') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-21 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 29;
+  width: 5.1666666666%;
+  height: 71px;
+  margin: -71px 0 0 10.01823%;
+  background: url('../images/Decepticon_logo.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-22 {
+  position: relative;
+  float: left;
+  z-index: 43;
+  width: 19.8333333333%;
+  height: 145px;
+  margin: -92px 0 0 29.59896%;
+  border: 4px solid rgb(0, 0, 0);
+  background: url('../images/3VlBP.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-23 {
+  position: relative;
+  float: left;
+  z-index: 24;
+  width: 25.5%;
+  height: 223px;
+  margin: -240px 0 0 8.16146%;
+  background: url('../images/xDAo8.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-24 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 44;
+  width: 19.5833333333%;
+  height: 147px;
+  margin: 28px 0 0 10%;
+  border: 4px solid rgb(0, 0, 0);
+  background: url('../images/2151-s3e8.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-25 {
+  position: relative;
+  float: left;
+  z-index: 30;
+  width: 5.1666666666%;
+  height: 71px;
+  margin: -104px 0 0 30.39844%;
+  background: url('../images/Decepticon_logo.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-26 {
+  position: relative;
+  float: left;
+  z-index: 58;
+  width: 20.25%;
+  height: 76px;
+  margin: -67px 0 0 60.24089%;
+  border: 2px double rgb(0, 0, 0);
+  background-color: rgb(222, 222, 222);
+}
+
+.element-27 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 32;
+  width: 5.1666666666%;
+  height: 57px;
+  margin: -65px 0 0 10.01172%;
+  background: url('../images/250px-Autobot_symbol(2).png') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-28 {
+  position: relative;
+  float: left;
+  z-index: 45;
+  width: 19.5833333333%;
+  height: 147px;
+  margin: -96px 0 0 0.79167%;
+  border: 4px solid rgb(0, 0, 0);
+  background: url('../images/HomeIsWhereTheSparkIs3-300x166.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-29 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 49;
+  width: 19.5755208333%;
+  height: 147px;
+  margin: 35px 0 0 10%;
+  border: 4px solid rgb(0, 0, 0);
+  background: url('../images/300px-TFA_Total_Meltdown_entrance.JPG') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-3 {
+  position: relative;
+  float: left;
+  z-index: 10;
+  width: 12%;
+  height: 28px;
+  margin: -56px 0 0 10%;
+  border: 2px double rgb(255, 54, 0);
+  background-color: rgb(222, 222, 222);
+}
+
+.element-30 {
+  position: relative;
+  float: left;
+  z-index: 60;
+  width: 25.5992187499%;
+  height: 223px;
+  margin: -154px 0 0 8.44792%;
+  background: url('../images/Transformers_Animated-28-29-A_Bridge_TooClose_529.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-31 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 47;
+  width: 5.1666666666%;
+  height: 57px;
+  margin: -113px 0 0 30.40495%;
+  background: url('../images/250px-Autobot_symbol(2).png') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-32 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 51;
+  width: 5.1666666666%;
+  height: 57px;
+  margin: -65px 0 0 10.03646%;
+  background: url('../images/250px-Autobot_symbol(2).png') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-33 {
+  position: relative;
+  float: left;
+  z-index: 53;
+  width: 19.5755208333%;
+  height: 147px;
+  margin: -102px 0 0 0.58464%;
+  background: url('../images/tf45232.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-34 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 57;
+  width: 19.8333333333%;
+  height: 147px;
+  margin: 35px 0 0 10.03646%;
+  background: url('../images/Transformers%20Animated%20Ep%2007%2000185.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-35 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 55;
+  width: 5.1666666666%;
+  height: 57px;
+  margin: -100px 0 0 30.42318%;
+  background: url('../images/250px-Autobot_symbol(2).png') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-4 {
+  position: relative;
+  float: left;
+  z-index: 4;
+  width: 80%;
+  height: 208px;
+  margin: -28px 0 0 10%;
+  background: url('../images/Transformers.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-5 {
+  position: relative;
+  float: left;
+  z-index: 0;
+  width: 20.75%;
+  height: 306px;
+  margin: -397px 0 0 25.83073%;
+  background: url('../images/QnD__Animated_Starscream_by_DeathWind13.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-6 {
+  position: absolute;
+  top: 44px;
+  left: 44%;
+  z-index: 5;
+  width: 12%;
+  height: 130px;
+  background: url('../images/Symbol_autobot_dx_edit.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center top;
+}
+
+.element-7 {
+  position: relative;
+  float: left;
+  z-index: 14;
+  width: 12.0833333333%;
+  height: 28px;
+  margin: -236px 0 0 29.59896%;
+  border: 2px double rgb(255, 84, 0);
+  background-color: rgb(222, 222, 222);
+}
+
+.element-8 {
+  position: relative;
+  float: left;
+  z-index: 1;
+  width: 20.5833333333%;
+  height: 246px;
+  margin: -370px 0 0 50.79948%;
+  background: url('../images/aiqrR8eiM.jpeg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left top;
+}
+
+.element-9 {
+  position: relative;
+  float: left;
+  z-index: 7;
+  width: 12%;
+  height: 28px;
+  margin: -236px 0 0 57.59896%;
+  border: 2px double rgb(255, 84, 0);
+  background-color: rgb(222, 222, 222);
+}
+
+.text-1 {
+  clear: both;
+  z-index: 11;
+  width: 7.6666666666%;
+  min-height: 28px;
+  margin: -231px 0 0 12.19922%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-10 {
+  z-index: 33;
+  width: 13.6333333333%;
+  min-height: 71px;
+  margin: -109px 0 0 35.60026%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-11 {
+  z-index: 34;
+  width: 13.5666666666%;
+  min-height: 71px;
+  margin: -71px 0 0 15.20573%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-12 {
+  clear: both;
+  z-index: 28;
+  width: 17.6666666666%;
+  min-height: 136px;
+  margin: -240px 0 0 61.91276%;
+  font-size: 0.563em;
+  color: rgb(255, 255, 255);
+}
+
+.text-13 {
+  z-index: 35;
+  width: 13.6328125%;
+  min-height: 71px;
+  margin: -104px 0 0 35.56771%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-14 {
+  clear: both;
+  z-index: 59;
+  width: 19.4166666666%;
+  min-height: 27px;
+  margin: -77px 0 0 60.66016%;
+  font-size: 1.063em;
+  color: rgb(0, 0, 0);
+}
+
+.text-15 {
+  z-index: 40;
+  width: 13.6328125%;
+  min-height: 71px;
+  margin: -65px 0 0 15.17448%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-16 {
+  z-index: 48;
+  width: 13.6328125%;
+  min-height: 71px;
+  margin: -113px 0 0 35.56771%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-17 {
+  clear: both;
+  z-index: 62;
+  width: 17.6666666666%;
+  min-height: 136px;
+  margin: -142px 0 0 61.9127604166%;
+  font-size: 0.563em;
+  color: rgb(255, 255, 255);
+}
+
+.text-18 {
+  z-index: 52;
+  width: 13.6328125%;
+  min-height: 71px;
+  margin: -65px 0 0 15.19922%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-19 {
+  z-index: 56;
+  width: 13.6328125%;
+  min-height: 71px;
+  margin: -100px 0 0 35.58464%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-2 {
+  z-index: 15;
+  width: 9.5%;
+  min-height: 18px;
+  margin: -231px 0 0 30.88151%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-3 {
+  z-index: 16;
+  width: 4.5%;
+  min-height: 11px;
+  margin: -231px 0 0 61.16667%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-4 {
+  z-index: 13;
+  width: 6.9166666666%;
+  min-height: 23px;
+  margin: -231px 0 0 80.5%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-5 {
+  z-index: 9;
+  width: 31.3333333333%;
+  min-height: 244px;
+  margin: 46px 0 0 1.53646%;
+  font-size: 1em;
+  color: rgb(0,0,0);
+}
+
+.text-6 {
+  z-index: 39;
+  width: 25.6036458333%;
+  min-height: 43px;
+  margin: -53px 0 0 57.59635%;
+  font-size: 1.75em;
+  color: rgb(0, 0, 0);
+}
+
+.text-7 {
+  clear: both;
+  z-index: 26;
+  width: 36.1666666666%;
+  min-height: 53px;
+  margin: -61px 0 0 12.19922%;
+  font-size: 1.563em;
+  color: rgb(0, 0, 0);
+}
+
+.text-8 {
+  clear: both;
+  z-index: 25;
+  width: 19.4166666666%;
+  min-height: 27px;
+  margin: -77px 0 0 60.66667%;
+  font-size: 1.063em;
+  color: rgb(0, 0, 0);
+}
+
+.text-9 {
+  z-index: 17;
+  width: 35.94921875%;
+  min-height: 443px;
+  margin: -422px 0 0 23.29948%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
